@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dart.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/curl.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jetpackcompose.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/iterm2.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jenkins.svg"></code>
 
 ### Contact me
 
